@@ -91,7 +91,7 @@ Hand::Hand(const std::string& line, int bid) : m_bid{ bid } {
 		}
 	};
 
-	auto jokerC = std::ranges::count(tempHand, JOKER);
+	auto jokerC = static_cast<int>(std::ranges::count(tempHand, JOKER));
 
 	if (jokerC > 0) {
 		if (run1 != JOKER) {
@@ -127,8 +127,6 @@ bool Hand::operator<(const Hand& other) const {
 void runDay7() {
 	std::set<Hand> hands;
 	
-	constexpr size_t LINES = 6;
-
 	advent::scanForEachLine("2023/inputs/day7.txt"s, 
 		[&hands](std::string& handStr, int bid) {
 			hands.emplace(std::move(handStr), bid);

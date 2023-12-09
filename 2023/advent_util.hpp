@@ -72,10 +72,10 @@ namespace advent {
 		}
 	}
 
+	const std::string workingDirectory = "D:/C++_Projects_V2/Advent_of_Code/Redux/Redux";
+
 	template<typename String, typename Callback>
 	void doWhileReading(const String& relativePath, Callback c) {
-		const String workingDirectory = "D:/C++_Projects_V2/Advent_of_Code/Redux/Redux";
-
 		//open the file
 		std::ifstream file{ workingDirectory + "/" + relativePath };
 		assert(file.is_open());
@@ -87,7 +87,7 @@ namespace advent {
 		file.close();
 	}
 
-	template<std::convertible_to<const char*> String, typename Callback, typename... Args>
+	template<typename String, typename Callback, typename... Args>
 	void scanForEachLine(const String& relativePath, Callback c, Args... args) {
 		//open the file
 		const String workingDirectory = "D:/C++_Projects_V2/Advent_of_Code/Redux/Redux";
