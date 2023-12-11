@@ -26,7 +26,7 @@ namespace advent {
 	}
 
 	template<bool move, std::weakly_incrementable It, typename Callback>
-	void getWords(It begin, It end, Callback&& c) {
+	void getWords(It begin, It end, Callback c) {
 		if (begin == end) { return; }
 
 		do {
@@ -51,25 +51,8 @@ namespace advent {
 	}
 
 	template<bool move, std::ranges::random_access_range String, typename Callback>
-	void getWords(String&& s, Callback&& c) {
-		getWords<move>(s.begin(), s.end(), std::forward<Callback>(c));
-	}
-
-	template<typename T>
-	consteval bool isNothrowForwardContructible() {
-		if constexpr (std::is_lvalue_reference_v<T>) {
-			return std::is_nothrow_copy_constructible_v<T>;
-		} else {
-			return std::is_nothrow_move_constructible_v<T>;
-		}
-	}
-	template<typename T>
-	consteval bool isNothrowForwardAssignable() {
-		if constexpr (std::is_lvalue_reference_v<T>) {
-			return std::is_nothrow_copy_assignable_v<T>;
-		} else {
-			return std::is_nothrow_move_assignable_v<T>;
-		}
+	void getWords(String s, Callback c) {
+		getWords<move>(s.begin(), s.end(), std::move(c));
 	}
 
 	const std::string workingDirectory = "D:/C++_Projects_V2/Advent_of_Code/Redux/Redux";
