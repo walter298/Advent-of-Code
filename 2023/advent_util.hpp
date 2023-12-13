@@ -88,14 +88,15 @@ namespace advent {
 		file.close();
 	}
 
-	template<std::ranges::viewable_range Range>
-	void print(const Range& r, std::string name = "") {
-		if (!name.empty()) {
-			std::cout << name << " ";
+	namespace detail {
+		template<typename Tuple, typename Callback, size_t... Indices>
+		void forEachInTupleHelper(const Tuple& t, Callback& c, std::index_sequence<Indices...>) {
+			(c(std::get<Indices>(t)), ...);
 		}
-		for (const auto& elem : r) {
-			std::cout << elem << " ";
-		}
-		std::cout << '\n';
+	}
+
+	template<typename Callback, typename... Args>
+	void forEachInTuple(const std::tuple<Args...>& t, Callback c) {
+		detail::forEachInTupleHelper(t, c, std::index_sequence_for<Args...>{});
 	}
 }
