@@ -11,15 +11,25 @@
 #include <sstream>
 #include <string>
 
+#include <boost/container/flat_map.hpp>
+
 using namespace std::literals;
 
 namespace advent {
+	template<typename Time = std::chrono::milliseconds>
+	void time(std::invocable auto&& func) {
+		auto start = std::chrono::steady_clock::now();
+		func();
+		auto end = std::chrono::steady_clock::now();
+		std::cout << "task took " << std::chrono::duration_cast<Time>(end - start) << '\n';
+	}
+
 	template<bool delta, std::weakly_incrementable It, std::invocable<typename It::value_type> Pred>
 	void advanceUntil(It& it, It end, Pred&& pred) {
 		while (it != end && !pred(*it)) {
 			if constexpr (delta) {
 				it++;
-			} else  {
+			} else {
 				it--;
 			} 
 		}
@@ -55,8 +65,8 @@ namespace advent {
 		getWords<move>(s.begin(), s.end(), std::move(c));
 	}
 
-	const std::string workingDirectory = "D:/C++_Projects_V2/Advent_of_Code/Redux/Redux";
-
+	const inline std::string workingDirectory = "C:/Users/walte/OneDrive/Desktop/Code_Projects/Advent_of_Code/Advent_of_Code/repo"s;
+	
 	template<typename String, typename Callback>
 	void doWhileReading(const String& relativePath, Callback c) {
 		//open the file
@@ -69,11 +79,19 @@ namespace advent {
 		}
 		file.close();
 	}
+	template<typename Callback>
+	void printSum(const std::string& relativePath, Callback c) {
+		int sum = 0;
+		advent::doWhileReading(relativePath,
+			[&sum, &c](auto& line) { sum += c(line); });
+		std::cout << sum << '\n';
+	}
 
 	template<typename String, typename Callback, typename... Args>
 	void scanForEachLine(const String& relativePath, Callback c, Args... args) {
 		//open the file
-		const String workingDirectory = "D:/C++_Projects_V2/Advent_of_Code/Redux/Redux";
+		const String workingDirectory = "C:/Users/walte/OneDrive/Desktop/Code_Projects/Advent_of_Code/Advent_of_Code/repo";
+		std::cout << workingDirectory + "/" + relativePath << '\n';
 		std::fstream file{ workingDirectory + "/" + relativePath };
 		assert(file.is_open());
 
@@ -99,4 +117,7 @@ namespace advent {
 	void forEachInTuple(const std::tuple<Args...>& t, Callback c) {
 		detail::forEachInTupleHelper(t, c, std::index_sequence_for<Args...>{});
 	}
+
+	template<typename Key, typename Value>
+	using HashMap = boost::container::flat_map<Key, Value>;
 }
