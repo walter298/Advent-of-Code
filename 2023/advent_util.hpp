@@ -16,6 +16,8 @@
 using namespace std::literals;
 
 namespace advent {
+	const inline std::string workingDirectory = "D:/C++_Projects_V2/Advent_of_Code/Redux/Redux";
+
 	template<typename Time = std::chrono::milliseconds>
 	void time(std::invocable auto&& func) {
 		auto start = std::chrono::steady_clock::now();
@@ -65,32 +67,35 @@ namespace advent {
 		getWords<move>(s.begin(), s.end(), std::move(c));
 	}
 
-	const inline std::string workingDirectory = "C:/Users/walte/OneDrive/Desktop/Code_Projects/Advent_of_Code/Advent_of_Code/repo"s;
-	
-	template<typename String, typename Callback>
-	void doWhileReading(const String& relativePath, Callback c) {
+	template<typename String, typename Callback, typename... InitialFileWork>
+	void doWhileReading(const String& relativePath, Callback c, InitialFileWork&&... initialWork) {
 		//open the file
 		std::ifstream file{ workingDirectory + "/" + relativePath };
 		assert(file.is_open());
+
+		((initialWork(file)), ...);
 
 		std::string line;
 		while (std::getline(file, line)) {
 			c(line);
 		}
+
 		file.close();
 	}
-	template<typename Callback>
-	void printSum(const std::string& relativePath, Callback c) {
+
+	template<typename Callback, typename... InitialFileWork>
+	void printSum(const std::string& relativePath, Callback c, InitialFileWork&&... initialWork) {
 		int sum = 0;
 		advent::doWhileReading(relativePath,
-			[&sum, &c](auto& line) { sum += c(line); });
+			[&sum, &c](auto& line) { sum += c(line); }, 
+			std::forward<InitialFileWork>(initialWork)...
+		);
 		std::cout << sum << '\n';
 	}
 
 	template<typename String, typename Callback, typename... Args>
 	void scanForEachLine(const String& relativePath, Callback c, Args... args) {
 		//open the file
-		const String workingDirectory = "C:/Users/walte/OneDrive/Desktop/Code_Projects/Advent_of_Code/Advent_of_Code/repo";
 		std::cout << workingDirectory + "/" + relativePath << '\n';
 		std::fstream file{ workingDirectory + "/" + relativePath };
 		assert(file.is_open());
