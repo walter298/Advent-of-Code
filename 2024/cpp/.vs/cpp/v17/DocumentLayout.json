@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day3\\day3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\src\\day3\\day3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\VISUAL_STUDIO\\ENTERPRISE\\VC\\TOOLS\\MSVC\\14.41.34120\\INCLUDE\\TUPLE||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\VISUAL_STUDIO\\ENTERPRISE\\VC\\TOOLS\\MSVC\\14.41.34120\\INCLUDE\\FORMAT||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "__msvc_string_view.hpp",
+              "DocumentMoniker": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
+              "ToolTip": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
+              "ViewState": "AgIAAH0DAAAAAAAAAAAlwIkDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T04:43:31.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tuple",
+              "DocumentMoniker": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\tuple",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\tuple",
+              "ToolTip": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\tuple",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\tuple",
+              "ViewState": "AgIAACAEAAAAAAAAAAAwwDIEAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-04T04:12:16.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "format",
+              "DocumentMoniker": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\format",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\format",
+              "ToolTip": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\format",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\format",
+              "ViewState": "AgIAAPoNAAAAAAAAAAAwwAwOAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-04T03:13:04.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\main.cpp",
+              "RelativeDocumentMoniker": "cpp\\main.cpp",
+              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\main.cpp",
+              "RelativeToolTip": "cpp\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T03:11:54.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day3.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day3\\day3.h",
+              "RelativeDocumentMoniker": "cpp\\src\\day3\\day3.h",
+              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day3\\day3.h",
+              "RelativeToolTip": "cpp\\src\\day3\\day3.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-04T02:48:23.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

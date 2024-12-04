@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "cpp\\x64\\Debug\\day3.h.obj",
+            "outputs": [
+                "D:\\C++_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\cpp\\x64\\Debug\\vc143.pdb",
+                "cpp\\x64\\Debug\\",
+                "D:\\C++_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\cpp\\x64\\Debug\\day3.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "src\\day3\\day3.h",
+                    "source-path": "d:\\c++_projects_v2\\advent_of_code_repo\\advent-of-code\\2024\\cpp\\cpp\\src\\day3\\day3.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
