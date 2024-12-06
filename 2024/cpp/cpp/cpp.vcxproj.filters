@@ -15,14 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\day3\day3.h">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="src\day3\day3_input.txt" />
+    <Text Include="src\day5\day5_input.txt" />
+    <Text Include="src\day5\day5_input_toy.txt" />
+    <Text Include="src\day5\day5_input_test.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\day5\day5.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

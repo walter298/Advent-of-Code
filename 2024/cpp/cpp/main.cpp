@@ -1,5 +1,11 @@
-#include "src/day3/day3.h"
+#include <string>
+#include <ranges>
+#include <print>
+
+#include "src/util.h"
+
+#include "src/day5/day5.hpp"
 
 int main() {
-	day3::exec();
+	exec();
 }
