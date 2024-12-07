@@ -1,8 +1,8 @@
 ﻿  main.cpp
   Generating code
-  19 of 1681 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+  6 of 1496 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    7 functions had inline decision re-evaluated but remain unchanged
+    9 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
   cpp.vcxproj -> D:\C++_Projects_V2\Advent_of_Code_Repo\Advent-of-Code\2024\cpp\x64\Release\cpp.exe
   'pwsh.exe' is not recognized as an internal or external command,

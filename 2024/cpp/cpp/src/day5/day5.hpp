@@ -9,7 +9,7 @@
 
 #include "../util.h"
 
-namespace {
+namespace day5_impl {
 	using Edges      = boost::unordered_flat_set<int>;
 	using PrintOrder = boost::unordered_flat_map<int, Edges>;
 	using Update     = std::vector<int>;
@@ -149,8 +149,8 @@ namespace {
 }
 
 inline void exec() {
-	auto data = loadData();
+	auto data = day5_impl::loadData();
 
-	std::println("{}", part1(data));
-	std::println("{}", part2(data));
+	std::println("{}", day5_impl::part1(data));
+	std::println("{}", day5_impl::part2(data));
 }

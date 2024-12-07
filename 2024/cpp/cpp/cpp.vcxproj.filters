@@ -23,6 +23,7 @@
     <Text Include="src\day5\day5_input.txt" />
     <Text Include="src\day5\day5_input_toy.txt" />
     <Text Include="src\day5\day5_input_test.txt" />
+    <Text Include="src\day6\day6_input_test.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\day5\day5.hpp">
@@ -31,5 +32,11 @@
     <ClInclude Include="src\util.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\day6\day6.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\day6\day6_input.txt" />
   </ItemGroup>
 </Project>

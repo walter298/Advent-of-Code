@@ -1,10 +1,17 @@
 #pragma once
 
+#include <cassert>
 #include <charconv>
+#include <fstream>
 #include <ranges>
+#include <string>
 #include <string_view>
 #include <tuple>
 #include <vector>
+
+#include <boost/container/static_vector.hpp>
+#include <boost/container_hash/hash.hpp>
+#include <boost/pfr.hpp>
 
 namespace detail {
 	void convertFromVal(auto& num, auto& numStrVal) {
@@ -46,4 +53,58 @@ std::vector<Num> vecSplit(std::string_view str, char delim = ',') {
 	}
 
 	return nums;
+}
+
+std::vector<std::string> readFileLines(std::string_view path) {
+	std::ifstream file{ path.data() };
+	assert(file.is_open());
+
+	std::vector<std::string> lines;
+	std::string line;
+
+	while (std::getline(file, line)) {
+		lines.push_back(line);
+	}
+
+	return lines;
+}
+
+template<typename T, size_t Size>
+class StaticCircularBuffer {
+private:
+	using Data = boost::container::static_vector<T, Size>;
+	Data m_data;
+	size_t m_idx = 0;
+public:
+	constexpr StaticCircularBuffer() 
+		: m_data(Size) 
+	{
+	}
+
+	size_t size() const {
+		return m_data.size();
+	}
+	
+	const Data& data() const {
+		return m_data;
+	}
+
+	template<typename U>
+	const T& insert(U&& value) {
+		m_data[m_idx] = std::forward<U>(value);
+		m_idx = m_idx == Size ? 0 : m_idx + 1;
+	}
+};
+
+namespace boost {
+	template<typename T> requires(std::is_aggregate_v<T>)
+	struct hash<T> {
+		size_t operator()(const T& aggr) const noexcept {
+			size_t hashCode = 0;
+			boost::pfr::for_each_field(aggr, [&](const auto& member) {
+				boost::hash_combine(hashCode, member);
+			});
+			return hashCode;
+		}
+	};
 }

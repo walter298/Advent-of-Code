@@ -3,6 +3,47 @@
   "WorkspaceRootPath": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\src\\day6\\day6.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\multi_array_ref.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\base.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\src\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\VCPKG\\VCPKG\\INSTALLED\\X64-WINDOWS\\INCLUDE\\BOOST\\UNORDERED\\UNORDERED_FLAT_MAP.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_set.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\VCPKG\\VCPKG\\INSTALLED\\X64-WINDOWS\\INCLUDE\\BOOST\\CONTAINER_HASH\\HASH.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6_input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\src\\day6\\day6_input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6_input_test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\src\\day6\\day6_input_test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\core.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\src\\day5\\day5.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -18,27 +59,19 @@
       "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\src\\day5\\day5_input_toy.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\VISUAL_STUDIO\\ENTERPRISE\\VC\\TOOLS\\MSVC\\14.41.34120\\INCLUDE\\XUTILITY||{3B902123-F8A7-4915-9F01-361F908088D0}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\table.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\core.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\ranges||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_set.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\current_function.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|solutionrelative:cpp\\src\\util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\shared\\ntverp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD616D5B-BCF5-49D3-AC9E-62365C05921D}|cpp\\cpp.vcxproj|D:\\VISUAL_STUDIO\\ENTERPRISE\\VC\\TOOLS\\MSVC\\14.41.34120\\INCLUDE\\RANGES||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\core\\bit.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +81,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,19 +98,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "day5_input_test.txt",
-              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5_input_test.txt",
-              "RelativeDocumentMoniker": "cpp\\src\\day5\\day5_input_test.txt",
-              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5_input_test.txt",
-              "RelativeToolTip": "cpp\\src\\day5\\day5_input_test.txt",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-06T19:34:41.984Z",
+              "Title": "base.hpp",
+              "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\base.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\base.hpp",
+              "ToolTip": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\base.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\base.hpp",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAlwIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T20:34:10.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "unordered_flat_map.hpp",
+              "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_map.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_map.hpp",
+              "ToolTip": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_map.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_map.hpp",
+              "ViewState": "AgIAAMgCAAAAAAAAAAAwwNoCAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T20:18:16.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hash.hpp",
+              "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\container_hash\\hash.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\container_hash\\hash.hpp",
+              "ToolTip": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\container_hash\\hash.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\container_hash\\hash.hpp",
+              "ViewState": "AgIAAB8CAAAAAAAAAAAewDMCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T04:11:28.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ntverp.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\shared\\ntverp.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\shared\\ntverp.h",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwHYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T04:11:26.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bit.hpp",
+              "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\core\\bit.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\core\\bit.hpp",
+              "ToolTip": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\core\\bit.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\core\\bit.hpp",
+              "ViewState": "AgIAALIBAAAAAAAAAAAwwMQBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T04:11:24.353Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "multi_array_ref.hpp",
+              "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\multi_array_ref.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\multi_array_ref.hpp",
+              "ToolTip": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\multi_array_ref.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\multi_array\\multi_array_ref.hpp",
+              "ViewState": "AgIAADYCAAAAAAAAAAAlwEICAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T23:08:47.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "vector_algorithms.cpp",
               "DocumentMoniker": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\stl\\vector_algorithms.cpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\stl\\vector_algorithms.cpp",
@@ -85,51 +179,49 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\stl\\vector_algorithms.cpp",
               "ViewState": "AgIAAPsAAAAAAAAAAAAQwBEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-06T19:07:19.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T19:07:19.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "xutility",
               "DocumentMoniker": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
               "ToolTip": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
               "RelativeToolTip": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
-              "ViewState": "AgIAAO8YAAAAAAAAAAAewAAZAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAACAAAAAAAAAAAwwBICAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-06T18:38:20.389Z",
+              "WhenOpened": "2024-12-06T18:38:20.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "day6.hpp",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6.hpp",
+              "RelativeDocumentMoniker": "cpp\\src\\day6\\day6.hpp",
+              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6.hpp",
+              "RelativeToolTip": "cpp\\src\\day6\\day6.hpp",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAQwLIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-06T20:27:42.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "day5_input_toy.txt",
-              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5_input_toy.txt",
-              "RelativeDocumentMoniker": "cpp\\src\\day5\\day5_input_toy.txt",
-              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5_input_toy.txt",
-              "RelativeToolTip": "cpp\\src\\day5\\day5_input_toy.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-12-06T02:30:57.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "unordered_flat_set.hpp",
               "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_set.hpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_set.hpp",
               "ToolTip": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_set.hpp",
               "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\unordered_flat_set.hpp",
-              "ViewState": "AgIAALgAAAAAAAAAAAAlwMQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACICAAAAAAAAAAAwwDQCAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-05T20:49:19.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "table.hpp",
               "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\table.hpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\table.hpp",
@@ -137,38 +229,23 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\table.hpp",
               "ViewState": "AgIAAEMBAAAAAAAAAAAlwFUBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-05T20:49:18.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T20:49:18.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "core.hpp",
               "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\core.hpp",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\core.hpp",
               "ToolTip": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\core.hpp",
               "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\unordered\\detail\\foa\\core.hpp",
-              "ViewState": "AgIAACgBAAAAAAAAAAAlwDQBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoEAAAAAAAAAAAwwGwEAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-05T20:49:00.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T20:49:00.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "util.h",
-              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\util.h",
-              "RelativeDocumentMoniker": "cpp\\src\\util.h",
-              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\util.h",
-              "RelativeToolTip": "cpp\\src\\util.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-05T20:47:07.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "ranges",
               "DocumentMoniker": "D:\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\ranges",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\ranges",
@@ -176,34 +253,106 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Visual_Studio\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\ranges",
               "ViewState": "AgIAAAkOAAAAAAAAAAAewBsOAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-05T20:46:56.606Z",
+              "WhenOpened": "2024-12-05T20:46:56.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "current_function.hpp",
+              "DocumentMoniker": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\current_function.hpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\current_function.hpp",
+              "ToolTip": "D:\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\current_function.hpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\vcpkg\\vcpkg\\installed\\x64-windows\\include\\boost\\current_function.hpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-07T04:11:30.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "day6_input_test.txt",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6_input_test.txt",
+              "RelativeDocumentMoniker": "cpp\\src\\day6\\day6_input_test.txt",
+              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6_input_test.txt",
+              "RelativeToolTip": "cpp\\src\\day6\\day6_input_test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-07T06:07:30.573Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "day6_input.txt",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6_input.txt",
+              "RelativeDocumentMoniker": "cpp\\src\\day6\\day6_input.txt",
+              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day6\\day6_input.txt",
+              "RelativeToolTip": "cpp\\src\\day6\\day6_input.txt",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T22:46:40.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "util.h",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\util.h",
+              "RelativeDocumentMoniker": "cpp\\src\\util.h",
+              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\util.h",
+              "RelativeToolTip": "cpp\\src\\util.h",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwGwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-05T20:47:07.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "day5.hpp",
               "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5.hpp",
               "RelativeDocumentMoniker": "cpp\\src\\day5\\day5.hpp",
               "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5.hpp",
               "RelativeToolTip": "cpp\\src\\day5\\day5.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAJgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-05T19:52:00.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T19:52:00.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\main.cpp",
               "RelativeDocumentMoniker": "cpp\\main.cpp",
               "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\main.cpp",
               "RelativeToolTip": "cpp\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-05T19:51:16.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-05T19:51:16.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "day5_input_test.txt",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5_input_test.txt",
+              "RelativeDocumentMoniker": "cpp\\src\\day5\\day5_input_test.txt",
+              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5_input_test.txt",
+              "RelativeToolTip": "cpp\\src\\day5\\day5_input_test.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T19:34:41.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "day5_input_toy.txt",
+              "DocumentMoniker": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5_input_toy.txt",
+              "RelativeDocumentMoniker": "cpp\\src\\day5\\day5_input_toy.txt",
+              "ToolTip": "D:\\C\u002B\u002B_Projects_V2\\Advent_of_Code_Repo\\Advent-of-Code\\2024\\cpp\\cpp\\src\\day5\\day5_input_toy.txt",
+              "RelativeToolTip": "cpp\\src\\day5\\day5_input_toy.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-06T02:30:57.563Z"
             }
           ]
         }

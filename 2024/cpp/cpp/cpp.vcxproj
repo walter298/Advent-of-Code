@@ -133,12 +133,17 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\day5\day5.hpp" />
+    <ClInclude Include="src\day6\day6.hpp" />
     <ClInclude Include="src\util.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="src\day5\day5_input.txt" />
     <Text Include="src\day5\day5_input_test.txt" />
     <Text Include="src\day5\day5_input_toy.txt" />
+    <Text Include="src\day6\day6_input_test.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\day6\day6_input.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
