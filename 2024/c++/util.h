@@ -69,6 +69,17 @@ std::vector<std::string> readFileLines(std::string_view path) {
 	return lines;
 }
 
+template<std::invocable<std::string_view> Func>
+void forEachLine(std::string_view path, Func f) {
+	std::ifstream file{ path.data() };
+	assert(file.is_open());
+
+	std::string line;
+	while (std::getline(file, line)) {
+		f(line);
+	}
+}
+
 template<typename T, size_t Size>
 class StaticCircularBuffer {
 private:
